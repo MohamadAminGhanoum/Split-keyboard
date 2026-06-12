@@ -3,6 +3,12 @@ This project is a custom split keyboard that I have customly built. I have built
 
 This split keyboard uses Cherry MX Gateron switches, which i chose because i want this amazing sound. It also has rechargable Lithium batteries, which is great because the keyboard does not need to be plugged in the whole time.
 
+## Build:
+<img width="4608" height="3456" alt="IMG_20260612_233845" src="https://github.com/user-attachments/assets/d30e8221-ee73-4d2f-96b3-87f8f1449010" />
+I had some issues with the design, it was minor issues, e.g i forgot to connect two traces in my keyboard to the diodes, which i luckily was able to safe by soldering wires on the vias to the switch from the other side.
+
+
+## Render:
 <img width="1202" height="766" alt="Screenshot 2026-04-11 202931" src="https://github.com/user-attachments/assets/f72a0a88-1c49-4cc7-93a1-8a8fda293fa5" />
 
 ## The pcb:
